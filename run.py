@@ -1,8 +1,7 @@
 import csv
 from datetime import datetime
-
 from IPStreet import client, query
-# from Tkinter import *
+
 
 
 def revelant_patents_search(search_seed_text,api_key):
