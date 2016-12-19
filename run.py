@@ -127,7 +127,6 @@ def write_results_to_csv(file_name,data_to_write):
 
 if __name__ == "__main__":
     api_key = "API_KEY"
-    prior_art_search('7477713',api_key)
 
     search_seed_text = "a configurable battery pack charging system coupled to said " \
                        "charging system controller, said battery pack and a power source, " \
@@ -135,3 +134,5 @@ if __name__ == "__main__":
                        "said battery pack in accordance with " \
                        "said battery pack charging conditions set by said charging system controller."
     revelant_patents_search(search_seed_text)
+
+    prior_art_search('7477713', api_key)
