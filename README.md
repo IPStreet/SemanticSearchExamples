@@ -1,5 +1,6 @@
 # SemanticSearchExamples
-Examples of how to use IP Street's semantic search to perform prior art search and find relevant documents
+Examples of how to use IP Street's semantic search to perform prior art search and find relevant documents.
+
 Full documentation can be found at [docs.ipstreet.com](http://docs.ipstreet.com/docs/)
 
 To run examples in run.py, replace "API_KEY" on line 129 with you IP Street API key.
