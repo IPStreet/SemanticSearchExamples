@@ -1,5 +1,5 @@
 # SemanticSearchExamples
-Examples of how to use IP Street's semantic search to perform prior art search and find relevant documents.
+Examples of how to use IP Street's semantic search to perform prior art search and patent landscape analysis.
 
 Full documentation can be found at [docs.ipstreet.com](http://docs.ipstreet.com/docs/)
 
